@@ -1,0 +1,24 @@
+.Mountains {
+    padding: 100px;
+    background:url(https://upload.wikimedia.org/wikipedia/commons/e/e7/Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpg);
+    background-size: cover;
+    width: 400px;
+    border-radius:20px;
+}
+.Mountain2 {
+    padding: 100px;
+    background:url(https://images.unsplash.com/photo-1585409677983-0f6c41ca9c3b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8M3x8fGVufDB8fHx8&w=1000&q=80);
+    width: 400px;
+    background-size: cover;
+    border-radius: 20px;
+    margin-left: 600px;
+}
+
+.Mountain3 {
+    width: 400px;
+    background-size: cover;
+    border-radius: 20px;
+    padding: 100px;
+    background:url(https://cf-images.us-east-1.prod.boltdns.net/v1/static/3281700261001/416cb3ca-03e6-4932-96dd-085b6b130b3e/8b63f5e8-6550-4a72-97bc-452f7c3b3000/1280x720/match/image.jpg);
+
+}
